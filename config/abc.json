@@ -4,8 +4,5 @@
 	},
 	{
 		"module" : "environment"
-	},
-	{
-		"module" : "hello"
 	}
 ]
